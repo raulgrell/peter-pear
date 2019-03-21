@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Stairs
+  - Enemy
+  - Card
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemies
+  - Obstacles
+  - Particles
+  - Ground
+  - Sides
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3796416897
+    locked: 0
+  - name: Foreground
+    uniqueID: 1418810671
+    locked: 0
+  - name: Player
+    uniqueID: 4050164561
+    locked: 0
+  - name: Overlay
+    uniqueID: 2864586061
+    locked: 0
+  - name: Effects
+    uniqueID: 809741487
+    locked: 0
+  - name: UI
+    uniqueID: 642506035
+    locked: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8937102130f44deabc49484bd6185477, type: 3}
+  m_Name: Welcome3
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 4ccf260f5682fa34cb61098d9d3692a1, type: 2}
+  text: "In order for you to pass these years all the way to graduation you will be
+    asked to match the card\u2019s pairs. Let me just warn you! If you fail you will
+    have to go to the exam, after is Game Over, so \u2026. you will have some obstacles
+    but don\u2019t worry! I know you are capable to do this!"
